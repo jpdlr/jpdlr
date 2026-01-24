@@ -12,14 +12,19 @@
 
 > I build tools that remove friction, surface signal from noise, and make systems easier to reason about. Most projects start as something I need, then slowly turn into something others might find useful.
 
-## Current Projects
+## Currently Working On
 
 * 🧭 **Internal dashboards** for turning messy data into calm interfaces
 * 🧮 **Developer utilities** for APIs, logs, and workflows
 * 🧪 **Experiments** around AI as a practical tool, not a gimmick
 * 🔌 **Automation and glue code** between systems that do not quite fit
 
-Pinned repositories below represent the kind of work I enjoy doing.
+## Actual Projects
+
+- 🤖 **prism-review** – AI-powered code review assistant for GitHub PRs; analyzes diffs and gives structured feedback on risk, improvements, and test coverage.
+- 🧮 **tokenforge** – Local-first dashboard that tracks AI token usage and cost across OpenAI, Anthropic, and Gemini.
+- 📋 **stacklane** – Fast keyboard-friendly Kanban board with MD3 card UI and focused workflow.
+- ✍️ **inkwell-studio** – Clean, modern blog platform with dynamic theming and a polished reading experience.
 
 ## Interests
 
