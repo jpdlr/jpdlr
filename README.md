@@ -86,7 +86,7 @@ Most repositories here fall into a few buckets:
 * Experiments and prototypes
 * Internal tools that grew legs and went public
 
-I prefer fewer projects that are understandable over many half-finished ones.
+I work in an agentic coding style and focus on building practical tools that help people ship reliable software faster.
 
 ## What I'm doing
 
