@@ -21,7 +21,7 @@
 
 ## Top Project
 
-### [Hydra](https://github.com/jpdlr/hydra)
+### 🐙 [Hydra](https://github.com/jpdlr/hydra)
 
 Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude Code and OpenAI Codex agents in parallel, with live terminals, session resume, and manager-agent orchestration.
 
