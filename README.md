@@ -31,8 +31,6 @@ Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude
 
 ## Current Projects
 
-Synced from GitHub on **February 16, 2026**.
-
 - 🪟 [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation toolkit that renders platform-specific command plans.
 - 🔗 [**urlbrief**](https://github.com/jpdlr/urlbrief) - URL summarizer API that extracts page text and returns title, summary, and keywords.
 - 🛡️ [**termtunnel**](https://github.com/jpdlr/termtunnel) - Secure browser-to-terminal bridge with short-lived tokens and command approval policies.
