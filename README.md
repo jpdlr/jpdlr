@@ -29,44 +29,39 @@ Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude
 - Claude Code + OpenAI Codex support in the same app
 - Session continuity, headless runs, and usage visibility
 
-## All Public Repositories
+## Current Projects
 
 Synced from GitHub on **February 16, 2026**.
 
-<details>
-<summary>Show all public repositories (29)</summary>
-
-- [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation toolkit that renders platform-specific command plans.
-- [**urlbrief**](https://github.com/jpdlr/urlbrief) - URL summarizer API that extracts page text and returns title, summary, and keywords.
-- [**termtunnel**](https://github.com/jpdlr/termtunnel) - Secure browser-to-terminal bridge with short-lived tokens and command approval policies.
-- [**patchpilot**](https://github.com/jpdlr/patchpilot) - Turn failing test output into a minimal, reviewable patch template.
-- [**logfuse**](https://github.com/jpdlr/logfuse) - Merge app logs, terminal output, and git commits into one searchable timeline.
-- [**incidentdraft**](https://github.com/jpdlr/incidentdraft) - Generate incident report drafts from structured events with timeline, impact, and action items.
-- [**diffscope**](https://github.com/jpdlr/diffscope) - PR diff inspector that scores risky files and flags potential regression hotspots.
-- [**commandreplay**](https://github.com/jpdlr/commandreplay) - Record command executions and replay them deterministically with captured context.
-- [**buildbeacon**](https://github.com/jpdlr/buildbeacon) - Surface red build hotspots by combining GitHub Actions failures with local test output.
-- [**snipvault**](https://github.com/jpdlr/snipvault) - Local snippet manager with tag filtering and copy actions
-- [**flowpulse**](https://github.com/jpdlr/flowpulse) - Synthetic latency stream playground for observability dashboard UX
-- [**tokenforge**](https://github.com/jpdlr/tokenforge) - Local-first dashboard to track AI token usage and cost across OpenAI, Anthropic, and Gemini.
-- [**proxylab**](https://github.com/jpdlr/proxylab) - Local API playground and debugging proxy for capturing, inspecting, and replaying HTTP traffic
-- [**hydra**](https://github.com/jpdlr/hydra) - Orchestrate Claude Code and OpenAI Codex agents in parallel from one desktop app
-- [**repo-readiness-radar**](https://github.com/jpdlr/repo-readiness-radar) - CLI that scans repositories and scores release-readiness hygiene across docs, tests, CI, and release basics.
-- [**voxrunner**](https://github.com/jpdlr/voxrunner) - Safety-first voice task runner CLI
-- [**codesnap**](https://github.com/jpdlr/codesnap) - Code to image tool with theme controls and PNG export
-- [**cardlane-ui**](https://github.com/jpdlr/cardlane-ui) - MD3-inspired dashboard component library with tokenized themes and tested React primitives
-- [**repochat**](https://github.com/jpdlr/repochat) - Local-first chat-with-your-repo app with retrieval and optional LLM synthesis
-- [**stacklane**](https://github.com/jpdlr/stacklane) - Fast, keyboard-friendly Kanban board with drag-and-drop, MD3 design, dark mode, and local persistence. Built with React, TypeScript, and @dnd-kit.
-- [**sqlflow**](https://github.com/jpdlr/sqlflow) - No description yet.
-- [**sift**](https://github.com/jpdlr/sift) - Sift through files with AI. Drop documents to get structured summaries with key points, action items, and insights. Built with React and Claude.
-- [**prism-review**](https://github.com/jpdlr/prism-review) - AI-powered code review assistant for GitHub PRs. Analyzes pull requests with Claude AI and provides structured feedback: risk assessment, improvement suggestions, and test coverage gaps.
-- [**md3-token-studio**](https://github.com/jpdlr/md3-token-studio) - React + Vite design token playground with live theming - 1,152 combinations across modes, surfaces, accents, design themes, and animations
-- [**inkwell-studio**](https://github.com/jpdlr/inkwell-studio) - A clean, modern blog platform with MD3-inspired cards, dynamic theming, and a polished reading experience.
-- [**hookwatch**](https://github.com/jpdlr/hookwatch) - Local webhook debugger to inspect, filter, and replay incoming events
-- [**code-agent-monitor**](https://github.com/jpdlr/code-agent-monitor) - VS Code extension to monitor Claude Code and Codex sessions, history, and usage statistics
-- [**claudepulse**](https://github.com/jpdlr/claudepulse) - macOS menu bar monitor for Claude Code usage - track tokens, costs, and model breakdown at a glance
-- [**MHS-Technical-Test**](https://github.com/jpdlr/MHS-Technical-Test) - No description yet.
-
-</details>
+- 🪟 [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation toolkit that renders platform-specific command plans.
+- 🔗 [**urlbrief**](https://github.com/jpdlr/urlbrief) - URL summarizer API that extracts page text and returns title, summary, and keywords.
+- 🛡️ [**termtunnel**](https://github.com/jpdlr/termtunnel) - Secure browser-to-terminal bridge with short-lived tokens and command approval policies.
+- 🩹 [**patchpilot**](https://github.com/jpdlr/patchpilot) - Turn failing test output into a minimal, reviewable patch template.
+- 🧵 [**logfuse**](https://github.com/jpdlr/logfuse) - Merge app logs, terminal output, and git commits into one searchable timeline.
+- 🚨 [**incidentdraft**](https://github.com/jpdlr/incidentdraft) - Generate incident report drafts from structured events with timeline, impact, and action items.
+- 🔎 [**diffscope**](https://github.com/jpdlr/diffscope) - PR diff inspector that scores risky files and flags potential regression hotspots.
+- ⏯️ [**commandreplay**](https://github.com/jpdlr/commandreplay) - Record command executions and replay them deterministically with captured context.
+- 🚦 [**buildbeacon**](https://github.com/jpdlr/buildbeacon) - Surface red build hotspots by combining GitHub Actions failures with local test output.
+- 📎 [**snipvault**](https://github.com/jpdlr/snipvault) - Local snippet manager with tag filtering and copy actions
+- 🌊 [**flowpulse**](https://github.com/jpdlr/flowpulse) - Synthetic latency stream playground for observability dashboard UX
+- 🧮 [**tokenforge**](https://github.com/jpdlr/tokenforge) - Local-first dashboard to track AI token usage and cost across OpenAI, Anthropic, and Gemini.
+- 🌐 [**proxylab**](https://github.com/jpdlr/proxylab) - Local API playground and debugging proxy for capturing, inspecting, and replaying HTTP traffic
+- 🐙 [**hydra**](https://github.com/jpdlr/hydra) - Orchestrate Claude Code and OpenAI Codex agents in parallel from one desktop app
+- 📈 [**repo-readiness-radar**](https://github.com/jpdlr/repo-readiness-radar) - CLI that scans repositories and scores release-readiness hygiene across docs, tests, CI, and release basics.
+- 🎙️ [**voxrunner**](https://github.com/jpdlr/voxrunner) - Safety-first voice task runner CLI
+- 🖼️ [**codesnap**](https://github.com/jpdlr/codesnap) - Code to image tool with theme controls and PNG export
+- 🎨 [**cardlane-ui**](https://github.com/jpdlr/cardlane-ui) - MD3-inspired dashboard component library with tokenized themes and tested React primitives
+- 💬 [**repochat**](https://github.com/jpdlr/repochat) - Local-first chat-with-your-repo app with retrieval and optional LLM synthesis
+- 📋 [**stacklane**](https://github.com/jpdlr/stacklane) - Fast, keyboard-friendly Kanban board with drag-and-drop, MD3 design, dark mode, and local persistence. Built with React, TypeScript, and @dnd-kit.
+- 🗃️ [**sqlflow**](https://github.com/jpdlr/sqlflow) - No description yet.
+- 🧠 [**sift**](https://github.com/jpdlr/sift) - Sift through files with AI. Drop documents to get structured summaries with key points, action items, and insights. Built with React and Claude.
+- 🤖 [**prism-review**](https://github.com/jpdlr/prism-review) - AI-powered code review assistant for GitHub PRs. Analyzes pull requests with Claude AI and provides structured feedback: risk assessment, improvement suggestions, and test coverage gaps.
+- 🧪 [**md3-token-studio**](https://github.com/jpdlr/md3-token-studio) - React + Vite design token playground with live theming - 1,152 combinations across modes, surfaces, accents, design themes, and animations
+- ✍️ [**inkwell-studio**](https://github.com/jpdlr/inkwell-studio) - A clean, modern blog platform with MD3-inspired cards, dynamic theming, and a polished reading experience.
+- 🪝 [**hookwatch**](https://github.com/jpdlr/hookwatch) - Local webhook debugger to inspect, filter, and replay incoming events
+- 🧰 [**code-agent-monitor**](https://github.com/jpdlr/code-agent-monitor) - VS Code extension to monitor Claude Code and Codex sessions, history, and usage statistics
+- 📊 [**claudepulse**](https://github.com/jpdlr/claudepulse) - macOS menu bar monitor for Claude Code usage - track tokens, costs, and model breakdown at a glance
+- 🧱 [**MHS-Technical-Test**](https://github.com/jpdlr/MHS-Technical-Test) - No description yet.
 
 ## Interests
 
