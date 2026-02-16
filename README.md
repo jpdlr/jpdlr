@@ -88,10 +88,6 @@ Most repositories here fall into a few buckets:
 
 I prefer fewer projects that are understandable over many half-finished ones.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/jpdlr)
-
 ## What I'm doing
 
 * Building tools to support real-world systems
