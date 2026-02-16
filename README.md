@@ -61,7 +61,6 @@ Synced from GitHub on **February 16, 2026**.
 - 🪝 [**hookwatch**](https://github.com/jpdlr/hookwatch) - Local webhook debugger to inspect, filter, and replay incoming events
 - 🧰 [**code-agent-monitor**](https://github.com/jpdlr/code-agent-monitor) - VS Code extension to monitor Claude Code and Codex sessions, history, and usage statistics
 - 📊 [**claudepulse**](https://github.com/jpdlr/claudepulse) - macOS menu bar monitor for Claude Code usage - track tokens, costs, and model breakdown at a glance
-- 🧱 [**MHS-Technical-Test**](https://github.com/jpdlr/MHS-Technical-Test) - No description yet.
 
 ## Interests
 
