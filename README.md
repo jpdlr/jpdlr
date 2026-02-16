@@ -19,12 +19,27 @@
 * 🧪 **Experiments** around AI as a practical tool, not a gimmick
 * 🔌 **Automation and glue code** between systems that do not quite fit
 
-## Actual Projects
+## Featured Projects
 
-- 🤖 **prism-review** – AI-powered code review assistant for GitHub PRs; analyzes diffs and gives structured feedback on risk, improvements, and test coverage.
-- 🧮 **tokenforge** – Local-first dashboard that tracks AI token usage and cost across OpenAI, Anthropic, and Gemini.
-- 📋 **stacklane** – Fast keyboard-friendly Kanban board with MD3 card UI and focused workflow.
-- ✍️ **inkwell-studio** – Clean, modern blog platform with dynamic theming and a polished reading experience.
+### Core products
+
+- 🤖 [**prism-review**](https://github.com/jpdlr/prism-review) - AI-powered code review assistant for GitHub PRs with risk-focused feedback.
+- 🧮 [**tokenforge**](https://github.com/jpdlr/tokenforge) - Local-first dashboard for AI token usage and cost tracking.
+- 📋 [**stacklane**](https://github.com/jpdlr/stacklane) - Keyboard-friendly Kanban board with MD3-inspired card UI.
+- ✍️ [**inkwell-studio**](https://github.com/jpdlr/inkwell-studio) - Modern blog platform with dynamic theming and clean reading UX.
+
+### New public tooling
+
+- 🚦 [**buildbeacon**](https://github.com/jpdlr/buildbeacon) - Surfaces build hotspots from CI failures and local test output.
+- ⏯️ [**commandreplay**](https://github.com/jpdlr/commandreplay) - Records command runs and replays them deterministically.
+- 🔎 [**diffscope**](https://github.com/jpdlr/diffscope) - PR diff inspector for regression-risk hotspots.
+- 🚨 [**incidentdraft**](https://github.com/jpdlr/incidentdraft) - Generates incident report drafts from structured event data.
+- 🧵 [**logfuse**](https://github.com/jpdlr/logfuse) - Merges app logs, terminal output, and git history into one timeline.
+- 🩹 [**patchpilot**](https://github.com/jpdlr/patchpilot) - Converts failing test output into minimal patch templates.
+- 📈 [**repo-readiness-radar**](https://github.com/jpdlr/repo-readiness-radar) - Scores repository release-readiness across docs, tests, CI, and release basics.
+- 🛡️ [**termtunnel**](https://github.com/jpdlr/termtunnel) - Secure browser-to-terminal bridge with token + approval controls.
+- 🔗 [**urlbrief**](https://github.com/jpdlr/urlbrief) - URL summarizer API for title, summary, and keyword extraction.
+- 🪟 [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation command planner.
 
 ## Interests
 
