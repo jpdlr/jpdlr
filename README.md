@@ -86,7 +86,7 @@ Most repositories here fall into a few buckets:
 * Experiments and prototypes
 * Internal tools that grew legs and went public
 
-I work in an agentic coding style and focus on building practical tools that help people ship reliable software faster.
+I design practical tools for agent-first engineering workflows.
 
 ## What I'm doing
 
