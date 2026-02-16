@@ -31,6 +31,8 @@ Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude
 
 ## Current Projects
 
+- 🧭 [**mcp-gateway**](https://github.com/jpdlr/mcp-gateway) - Local MCP control plane with server registry, scoped auth, policies, and an expressive dashboard.
+- 🗺️ [**spec-to-ship**](https://github.com/jpdlr/spec-to-ship) - Turn markdown specs into task graphs, branch plans, PR checklists, and progress dashboards.
 - 🪟 [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation toolkit that renders platform-specific command plans.
 - 🔗 [**urlbrief**](https://github.com/jpdlr/urlbrief) - URL summarizer API that extracts page text and returns title, summary, and keywords.
 - 🛡️ [**termtunnel**](https://github.com/jpdlr/termtunnel) - Secure browser-to-terminal bridge with short-lived tokens and command approval policies.
