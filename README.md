@@ -11,6 +11,18 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square\&logo=google-chrome\&logoColor=white)
 
 > I build tools that remove friction, surface signal from noise, and make systems easier to reason about. Most projects start as something I need, then slowly turn into something others might find useful.
+>
+> Engineer · Geneticist · Builder — [jpdelarey.co.za](https://jpdelarey.co.za/)
+
+## Companies
+
+### 🧬 [BioAxis](https://bioaxis.co.za/) — Founder
+
+BioAxis is where my engineering and genetics backgrounds meet. I founded it to build software and tooling at the intersection of biology and data — bringing modern web platforms, analysis pipelines, and clean interfaces to a domain that often runs on spreadsheets and gut feel.
+
+### 🛠️ [Nuvio](https://nuvio.co.za/) — Technical Director (CTO)
+
+Nuvio is a Pretoria-based application development company building custom web, mobile, and business software for clients including Vodacom, BCX, Ford, Tongaat, and King Price Insurance. As Technical Director I set the technical direction across the team — architecture, delivery standards, and the engineering culture behind products like FabricFour Learning and FabricFour Legal.
 
 ## Currently Working On
 
@@ -28,6 +40,20 @@ Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude
 - Parallel multi-agent workflows in one workspace
 - Claude Code + OpenAI Codex support in the same app
 - Session continuity, headless runs, and usage visibility
+
+## Other Notable Projects
+
+### 📬 [Sendkit](https://sendkit-za.web.app/)
+
+A lightweight toolkit for crafting, previewing, and shipping transactional emails without the bloat of a full marketing stack. Focused on clean templates, fast iteration, and predictable rendering across clients.
+
+### 🔥 [Sheetfire](https://sheetfire-za.web.app/)
+
+Turns Google Sheets into fast, queryable backends for small apps and prototypes. Designed for the moment you need real data behind a UI but a full database is overkill.
+
+### ⚔️ [Auto Delver](https://autodelver-za.web.app/)
+
+A roguelite idler where a script-driven party delves dungeons on its own. The game is in the loadout and logic you write — combat plays itself out while you tune the strategy.
 
 ## Current Projects
 
