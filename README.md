@@ -43,6 +43,14 @@ Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude
 
 ## Other Notable Projects
 
+### 🧭 [SideQuest](https://sidequestza.web.app/)
+
+An AI-generated side quest system for real life. A shared global daily quest everyone gets, plus personal quests tuned to your chaos level and the time of day. Complete one, share what happened, and the feed fills with other people's weird little adventures. The product isn't quests — it's breaking routine. Mobile-first PWA built with React + Vite + TypeScript on Firebase.
+
+### 🗺️ [Roampin](https://roampin-za.web.app/)
+
+A travel logging app for pinning the places you've been and the stories behind them. Drop pins, capture memories, and watch your map fill in over time.
+
 ### 📬 [Sendkit](https://sendkit-za.web.app/)
 
 A lightweight toolkit for crafting, previewing, and shipping transactional emails without the bloat of a full marketing stack. Focused on clean templates, fast iteration, and predictable rendering across clients.
