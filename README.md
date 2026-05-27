@@ -45,7 +45,7 @@ Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude
 
 ### 🧭 [SideQuest](https://sidequestza.web.app/)
 
-An AI-generated side quest system for real life. A shared global daily quest everyone gets, plus personal quests tuned to your chaos level and the time of day. Complete one, share what happened, and the feed fills with other people's weird little adventures. The product isn't quests — it's breaking routine. Mobile-first PWA built with React + Vite + TypeScript on Firebase.
+Real-life side quests that break your routine. A shared daily quest everyone gets, plus personal quests tuned to your chaos level and the time of day. Complete one, share what happened, and the feed fills with other people's weird little adventures. The product isn't quests — it's breaking routine.
 
 ### 🗺️ [Roampin](https://roampin-za.web.app/)
 
