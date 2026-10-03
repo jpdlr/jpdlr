@@ -33,13 +33,15 @@ Nuvio is a Pretoria-based application development company building custom web, m
 
 ## Top Project
 
-### 🐙 [Hydra](https://github.com/jpdlr/hydra)
+### 🎧 [Interns](https://github.com/jpdlr/interns)
 
-Hydra is my flagship project: a cross-platform desktop app to orchestrate Claude Code and OpenAI Codex agents in parallel, with live terminals, session resume, and manager-agent orchestration.
+<a href="https://github.com/jpdlr/interns"><img src="https://raw.githubusercontent.com/jpdlr/interns/main/docs/images/hero.svg" alt="Interns: a crew of AI agents that work for you" width="100%"></a>
 
-- Parallel multi-agent workflows in one workspace
-- Claude Code + OpenAI Codex support in the same app
-- Session continuity, headless runs, and usage visibility
+Interns is my flagship project: a self-hosted crew of AI agents that work for you, run by the Chaos Coordinator. Each intern has a name, an animated face, a job, its own memory and tools, and a daily budget. You chat with them from your phone, and they also work on their own: they triage your inbox, brief you before meetings, review pull requests and keep track of who you owe a reply.
+
+- Hire in one sentence, or start from one of seven starter interns
+- Drafts-only by design: nothing leaves without your approval
+- Claude Agent SDK, TypeScript + SQLite, an Expo PWA, Outlook, GitHub and Discord
 
 ## Other Notable Projects
 
@@ -65,6 +67,7 @@ A roguelite idler where a script-driven party delves dungeons on its own. The ga
 
 ## Current Projects
 
+- 🎧 [**interns**](https://github.com/jpdlr/interns) - A self-hosted crew of AI agents that work for you, run by the Chaos Coordinator. Drafts-only by design.
 - 🧭 [**mcp-gateway**](https://github.com/jpdlr/mcp-gateway) - Local MCP control plane with server registry, scoped auth, policies, and an expressive dashboard.
 - 🗺️ [**spec-to-ship**](https://github.com/jpdlr/spec-to-ship) - Turn markdown specs into task graphs, branch plans, PR checklists, and progress dashboards.
 - 🪟 [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation toolkit that renders platform-specific command plans.
@@ -80,7 +83,6 @@ A roguelite idler where a script-driven party delves dungeons on its own. The ga
 - 🌊 [**flowpulse**](https://github.com/jpdlr/flowpulse) - Synthetic latency stream playground for observability dashboard UX
 - 🧮 [**tokenforge**](https://github.com/jpdlr/tokenforge) - Local-first dashboard to track AI token usage and cost across OpenAI, Anthropic, and Gemini.
 - 🌐 [**proxylab**](https://github.com/jpdlr/proxylab) - Local API playground and debugging proxy for capturing, inspecting, and replaying HTTP traffic
-- 🐙 [**hydra**](https://github.com/jpdlr/hydra) - Orchestrate Claude Code and OpenAI Codex agents in parallel from one desktop app
 - 📈 [**repo-readiness-radar**](https://github.com/jpdlr/repo-readiness-radar) - CLI that scans repositories and scores release-readiness hygiene across docs, tests, CI, and release basics.
 - 🎙️ [**voxrunner**](https://github.com/jpdlr/voxrunner) - Safety-first voice task runner CLI
 - 🖼️ [**codesnap**](https://github.com/jpdlr/codesnap) - Code to image tool with theme controls and PNG export
