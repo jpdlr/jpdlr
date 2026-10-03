@@ -35,9 +35,11 @@ Nuvio is a Pretoria-based application development company building custom web, m
 
 ### 🎧 [Interns](https://github.com/jpdlr/interns)
 
-<a href="https://github.com/jpdlr/interns"><img src="https://raw.githubusercontent.com/jpdlr/interns/main/docs/images/hero.svg" alt="Interns: a crew of AI agents that work for you" width="100%"></a>
+<a href="https://github.com/jpdlr/interns/blob/main/docs/media/interns-promo.mp4"><img src="https://raw.githubusercontent.com/jpdlr/interns/main/docs/images/demo.gif" alt="A 28-second demo of Interns" width="100%"></a>
 
-Interns is my flagship project: a self-hosted crew of AI agents that work for you, run by the Chaos Coordinator. Each intern has a name, an animated face, a job, its own memory and tools, and a daily budget. You chat with them from your phone, and they also work on their own: they triage your inbox, brief you before meetings, review pull requests and keep track of who you owe a reply.
+<sub>▶ <a href="https://github.com/jpdlr/interns/blob/main/docs/media/interns-promo.mp4"><b>Watch the 28-second demo</b></a></sub>
+
+Interns is my flagship project: a self-hosted crew of AI agents that work for you, run by the Coordinator. Each intern has a name, an animated face, a job, its own memory and tools, and a daily budget. You chat with them from your phone, and they also work on their own: they triage your inbox, brief you before meetings, review pull requests and keep track of who you owe a reply.
 
 - Hire in one sentence, or start from one of seven starter interns
 - Drafts-only by design: nothing leaves without your approval
@@ -67,7 +69,7 @@ A roguelite idler where a script-driven party delves dungeons on its own. The ga
 
 ## Current Projects
 
-- 🎧 [**interns**](https://github.com/jpdlr/interns) - A self-hosted crew of AI agents that work for you, run by the Chaos Coordinator. Drafts-only by design.
+- 🎧 [**interns**](https://github.com/jpdlr/interns) - A self-hosted crew of AI agents that work for you, run by the Coordinator. Drafts-only by design.
 - 🧭 [**mcp-gateway**](https://github.com/jpdlr/mcp-gateway) - Local MCP control plane with server registry, scoped auth, policies, and an expressive dashboard.
 - 🗺️ [**spec-to-ship**](https://github.com/jpdlr/spec-to-ship) - Turn markdown specs into task graphs, branch plans, PR checklists, and progress dashboards.
 - 🪟 [**windowpilot**](https://github.com/jpdlr/windowpilot) - Profile-driven window automation toolkit that renders platform-specific command plans.
